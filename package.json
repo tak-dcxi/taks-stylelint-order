@@ -1,0 +1,45 @@
+{
+  "name": "taks-stylelint-order",
+  "version": "1.0.0",
+  "description": "Stylelint order config with comprehensive CSS properties ordering.",
+  "keywords": [
+    "stylelint",
+    "stylelint-order",
+    "css",
+    "order",
+    "properties",
+    "properties-order"
+  ],
+  "author": "TAK",
+  "license": "MIT",
+  "homepage": "https://github.com/tak-dcxi/taks-stylelint-order#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tak-dcxi/taks-stylelint-order.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tak-dcxi/taks-stylelint-order/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "stylelint-order": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.0",
+    "globals": "^15.14.0",
+    "stylelint": "^16.14.1"
+  },
+  "peerDependencies": {
+    "stylelint": ">=14.0.0",
+    "stylelint-order": ">=6.0.0"
+  },
+  "scripts": {
+    "lint": "eslint *.js"
+  }
+}
