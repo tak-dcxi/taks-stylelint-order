@@ -39,6 +39,7 @@ module.exports = {
         // Display
         "display",
         "order",
+        "reading-flow",
         "visibility",
         // Grid Layout
         "grid",
@@ -64,8 +65,6 @@ module.exports = {
         "flex-flow",
         "flex-direction",
         "flex-wrap",
-        // Reading Flow
-        "reading-flow",
         // Box Alignment Module
         "gap",
         "column-gap",
