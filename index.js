@@ -65,6 +65,14 @@ module.exports = {
         "flex-flow",
         "flex-direction",
         "flex-wrap",
+        // Item Flow Controls
+        "item-flow",
+        "item-track",
+        "item-direction",
+        "item-cross",
+        "item-wrap",
+        "item-pack",
+        "item-slack",
         // Box Alignment Module
         "gap",
         "column-gap",
