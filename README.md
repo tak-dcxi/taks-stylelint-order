@@ -31,7 +31,7 @@ The properties are ordered in the following categories:
 6. Display
 7. Grid Layout
 8. Flexible Box
-9. Reading Flow
+9. Item Flow Controls
 10. Box Alignment Module
     ... (and more)
 
