@@ -28,8 +28,9 @@ module.exports = {
         "position-area",
         "position-anchor",
         "position-try",
-        "position-try-options",
+        "position-try-fallbacks",
         "position-try-order",
+        "position-visibility",
         // Containment Module
         "container",
         "container-name",
