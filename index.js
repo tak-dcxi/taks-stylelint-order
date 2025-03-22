@@ -107,6 +107,7 @@ module.exports = {
         "overflow-block",
         "text-overflow",
         "overflow-scrolling",
+        "scroll-marker-group",
         // Overscroll Behavior
         "overscroll-behavior",
         "overscroll-behavior-x",
@@ -284,6 +285,7 @@ module.exports = {
         "opacity",
         "rendering-intent",
         "components",
+        "dynamic-range-limit",
         // Compositing and Blending
         "mix-blend-mode",
         "isolation",
