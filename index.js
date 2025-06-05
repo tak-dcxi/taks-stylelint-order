@@ -41,6 +41,7 @@ module.exports = {
         "display",
         "order",
         "reading-flow",
+        "reading-order",
         "visibility",
         // Grid Layout
         "grid",
